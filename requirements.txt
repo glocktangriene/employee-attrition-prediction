@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+joblib
+streamlit
+plotly
+xgboost   # optional; train.py falls back to sklearn gradient boosting without it
